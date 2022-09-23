@@ -16,6 +16,8 @@ Run the `build.sh` script to compile, install and run UPPAAL with the plugin:
 ./build.sh
 ```
 
+Observe UPPAAL being launched and a new tab "Plugin Demo" on the right.
+
 To cleanup, delete the `build` directory:
 ```sh
 rm -Rf build
